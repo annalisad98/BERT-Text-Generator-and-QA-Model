@@ -1,4 +1,4 @@
-# MLDL2021
+# BERT as Text Generator and Question Answering Model
 
 BERT is one of the most efficient language representation models introduced in last years. Its transformer-based architecture permits to create state-of-art models for a wide range of tasks by easily fine-tuning the pre-trained BERT.
 Conceptually simple and powerful, BERT is the strong basis for solving many tasks, especially the question answering one included in the functioning of search engines.
