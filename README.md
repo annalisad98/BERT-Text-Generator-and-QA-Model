@@ -14,7 +14,7 @@ In order to run the code, it is necessary to upload some files from [data](https
 
 
 ## Bert for Question Answering
-This [script](https://github.com/annalisad98/MLDL2021/blob/main/MLDL2.ipynb) implements the [web app for Question Answering](thttps://d4ephv6bpz2b2gkf.anvil.app/6L3Z3ZV54XCQ2BF4DY7FJQBD) using using the multi-language model [XLM-RoBERTa](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlm_roberta). The available languages are English, Italian and French; in this script we consider three short texts on different topics and the questions have to relate to these texts, but possible applications could rely on bigger datasets, allowing more general questions.
+[MLDL2](https://github.com/annalisad98/MLDL2021/blob/main/MLDL2.ipynb) implements the [web app for Question Answering](thttps://d4ephv6bpz2b2gkf.anvil.app/6L3Z3ZV54XCQ2BF4DY7FJQBD) using using the multi-language model [XLM-RoBERTa](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlm_roberta). The available languages are English, Italian and French; in this script we consider three short texts on different topics and the questions have to relate to these texts, but possible applications could rely on bigger datasets, allowing more general questions.
 
 
 ## Implemented Models and Original Papers
