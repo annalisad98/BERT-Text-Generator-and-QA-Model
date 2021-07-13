@@ -9,7 +9,12 @@ In order to run the code, it is necessary to upload some files:
 Markup : - Bullet list
               - Nested bullet
                   - Sub-nested bullet etc
-          - Bullet list item 2
+          - Bullet list item 
+          
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 
 
 Wiki1000sample:
