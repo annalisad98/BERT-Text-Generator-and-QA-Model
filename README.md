@@ -10,7 +10,7 @@ The [main script](https://github.com/annalisad98/MLDL2021/blob/main/MLDLproject.
 In order to run the code, it is necessary to upload some files from [data](https://github.com/annalisad98/MLDL2021/tree/main/data):         
 * datawiki103.5k.txt: it is a sample of 5000 sentences from WikiText-103 test set
 * tbc.5k.txt: it is a sample of 5000 sentences from Toronto Book Corpus (TBC)
-* wiki_train_1000_samples.txt: it is a sample of 1000 sentences from WikiText-103 train set. It is generated [here](https://github.com/annalisad98/MLDL2021/blob/main/file_gen/wiki1000sample.ipynb) to generate it.
+* wiki_train_1000_samples.txt: it is a sample of 1000 sentences from WikiText-103 train set. It is generated [here](https://github.com/annalisad98/MLDL2021/blob/main/file_gen/wiki1000sample.ipynb).
 * wt40.txt: it contains 40 prompts (sentences truncated at the sixth token), sampled from WikiText-103 train set in [this code](https://github.com/annalisad98/MLDL2021/blob/main/file_gen/wiki40prompts.ipynb).
 
 
