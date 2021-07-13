@@ -6,8 +6,10 @@ BERT is one of the most efficient language representa-tion models introduced in 
 
 The [main script](https://github.com/annalisad98/MLDL2021/blob/main/MLDLproject.ipynb) is a workable replica from [BERT has a Mouth, and It Must Speak](https://github.com/nyu-dl/bert-gen), where BERT as a text generator is compared with [OpeanAi GPT](https://github.com/huggingface/pytorch-openai-transformer-lm/tree/d848a49f718b75287e1bd0364803c41c6b1deef5), [Transfomer-XL](https://github.com/huggingface/transformers/tree/master/src/transformers/models/transfo_xl) and [XL-Net](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlnet). The evaluation is made using both the metrics from [BERT has a Mouth, and It Must Speak](https://github.com/nyu-dl/bert-gen) and the metrics from the [Texygen platform](https://github.com/geek-ai/Texygen).
 In order to run the code, it is necessary to upload some files:
--'datawiki103.5k.txt'
--prova
+Markup : - Bullet list
+              - Nested bullet
+                  - Sub-nested bullet etc
+          - Bullet list item 2
 
 
 Wiki1000sample:
