@@ -4,7 +4,7 @@ BERT is one of the most efficient language representa-tion models introduced in 
 
 # Basic Usage
 
-The main script [prova](https://github.com/annalisad98/MLDL2021/blob/main/MLDLproject.ipynb) is a workable replica from https://github.com/nyu-dl/bert-gen, where BERT as a text generator is compared with OpeanAi GPT, Transfomer-XL and XL-Net [link to Google!](http://google.com)
+The [main script](https://github.com/annalisad98/MLDL2021/blob/main/MLDLproject.ipynb) is a workable replica from https://github.com/nyu-dl/bert-gen, where BERT as a text generator is compared with [OpeanAi GPT](https://github.com/huggingface/pytorch-openai-transformer-lm/tree/d848a49f718b75287e1bd0364803c41c6b1deef5), [Transfomer-XL](https://github.com/huggingface/transformers/tree/master/src/transformers/models/transfo_xl) and [XL-Net](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlnet) 
  
 
 
