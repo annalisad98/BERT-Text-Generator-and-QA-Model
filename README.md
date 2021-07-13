@@ -1,6 +1,7 @@
 # MLDL2021
 
-BERT is one of the most efficient language representa-tion models introduced in last years. Its transformer-basedarchitecture permits to create state-of-art models for a widerange of tasks by easily fine-tuning the pre-trained BERT.Conceptually simple and powerful, BERT is the strong ba-sis for solving many tasks, especially the question answer-ing one included in the functioning of search engines. Fur-thermore, proving it as a Markov Random Field LanguageModel is useful to consider BERT as a high-quality, fluenttext generator too. In this work, first its structure is analyzedand its results as a text generator are compared to other ex-isting models. Finally the power of BERT is extended in thespecific field of question answering task.
+BERT is one of the most efficient language representation models introduced in last years. Its transformer-based architecture permits to create state-of-art models for a wide range of tasks by easily fine-tuning the pre-trained BERT.
+Conceptually simple and powerful, BERT is the strong basis for solving many tasks, especially the question answering one included in the functioning of search engines. Furthermore, proving it as a Markov Random Field Language Model is useful to consider BERT as a high-quality, fluent text generator too. In this work, first its structure is analyzed and its results as a text generator are compared to other existing models. Finally the power of BERT is extended in the specific field of question answering task.
 
 # Basic Usage
 
