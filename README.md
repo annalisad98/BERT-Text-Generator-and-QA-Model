@@ -14,7 +14,12 @@ In order to run the code, it is necessary to upload some files from [data](https
 
 
 ## Bert for Question Answering
-[MLDL2](https://github.com/annalisad98/MLDL2021/blob/main/MLDL2.ipynb) implements the [web app for Question Answering](https://d4ephv6bpz2b2gkf.anvil.app/6L3Z3ZV54XCQ2BF4DY7FJQBD) using using the multi-language model [XLM-RoBERTa](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlm_roberta). The available languages are English, Italian and French; in this script we consider three short texts on different topics and the questions have to relate to these texts, but possible applications could rely on bigger datasets, allowing more general questions.
-
+[MLDL2](https://github.com/annalisad98/MLDL2021/blob/main/MLDL2.ipynb) implements the [web app for Question Answering](https://d4ephv6bpz2b2gkf.anvil.app/6L3Z3ZV54XCQ2BF4DY7FJQBD) using the multi-language model [XLM-RoBERTa](https://github.com/huggingface/transformers/tree/master/src/transformers/models/xlm_roberta). The available languages are English, Italian and French. In this script we consider three short texts on different topics and the questions have to relate to these texts, but possible applications could rely on bigger datasets, allowing more general questions.
 
 ## Implemented Models and Original Papers
+* BERT-gen: [BERT has a Mouth, and It Must Speak: BERT as a Markov Random Field Language Model](https://arxiv.org/abs/1902.04094)
+* OpenAi GPT: [Improving Language Understanding by Generative Pre-Training](https://openai.com/blog/language-unsupervised/)
+* Texygen: [Texygen: A Benchmarking Platform for Text Generation Models](https://arxiv.org/abs/1802.01886)
+* Transformer-XL: [Transformer-XL: Attentive Language Models Beyond a Fixed-Length Context](https://arxiv.org/abs/1901.02860)
+* XLNet [XLNet: Generalized Autoregressive Pretraining for Language Understanding](https://arxiv.org/abs/1906.08237)
+* XLM-RoBERTa [Unsupervised Cross-lingual Representation Learning at Scale](https://arxiv.org/abs/1911.02116)
